@@ -1,0 +1,29 @@
+body {
+    background-image: linear-gradient(to left top, #9533f1, #e74be7, #f098c4, #ffff);
+    color: azure;
+}
+
+#start-btn {
+    width: 40%;
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+#logo_img {
+    width: 150px;
+    border-radius: 100px;
+}
+
+#textbox {
+    width: 300px;
+}
+
+#voiceToText {
+    width: 400px;
+    height: 100px;
+    color: black;
+}
